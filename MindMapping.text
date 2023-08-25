@@ -1,0 +1,21 @@
+-Create JSON Object for questions .
+-start creating HTML Marketing .
+-Add Dummy Data.
+-Create The Styling.
+-Fetch Number Of Questions From JSON Objects.
+-Show Question And Question Category.
+-Show The Number Of Bullets Depend on questions count.
+-set the number of the right And wrong answer.
+-Create Countdown Timer.
+-Fetch The Questions From JSON Objects.
+-Show first question.
+-Check Answer And Hide question then show next one.
+if the time end ,mark the question as wrong and show next question.
+Add class on bullets after answering the question. 
+-if questions finished show the result.
+
+
+ideas=>>>>>>>>
+1-Many json objects and choose language.
+2-Add many question and choose only 10 randomly.
+3-Randomize answer.
